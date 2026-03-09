@@ -1,16 +1,17 @@
 # HexaLens – Learn Through Play
 
 ## Project Description
-HexaLens is an interactive educational platform inspired by the hexagonal mirror design of the James Webb Space Telescope. The project presents space science concepts through a hexagon-based learning and quiz system to make astronomy engaging and easy to understand.
+HexaLens is an interactive educational platform inspired by the hexagonal mirror design of the James Webb Space Telescope. 
+It presents space science concepts through a hexagon-based quiz system that allows users to learn astronomy in an engaging and interactive way.
 
 ## Objective
 The objective of this project is to bridge the gap between complex astronomical discoveries and public understanding by presenting them in an interactive and gamified learning format.
 
-## Features
-- Hexagonal mirror inspired interface
-- Interactive quiz-based learning
+## FeaturesFeatures
+- Hexagonal mirror-based learning interface
+- Quiz-based learning system
 - Progressive level unlocking
-- Educational content about astronomy and space exploration
+- Space science educational content
 
 ## Technologies Used
 - React Native
@@ -23,10 +24,3 @@ The objective of this project is to bridge the gap between complex astronomical 
 - Leaderboards and achievements
 - Dedicated mobile application
 - Expanded astronomy content
-
-## Team Members
-- P Navya Sree
-- Saranya Gunjuvari
-- Chitlapally Ashwini
-- P Deekshitha Sai
-- Kandukuri Bhavya
